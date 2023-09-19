@@ -21,7 +21,7 @@ class Lab6C
         char cntue;
         do
         {
-            Console.WriteLine("\nMenu \n0 – Make a deposit \n1 – Make a withdrawal \n2 – Display account value");
+            Console.WriteLine("\nMenu \n0 - Make a deposit \n1 - Make a withdrawal \n2 - Display account value");
             Console.Write("\nPlease make a selection: ");
             int choice= int.Parse(Console.ReadLine());
             switch(choice){
