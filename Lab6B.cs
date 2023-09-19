@@ -25,7 +25,7 @@ class Lab6B
             count++;
             if (guess == number) 
             { 
-                Console.WriteLine("I guessed the number was "+guess+" and it only took me " +count+" guesses ");
+                Console.WriteLine("\nI guessed the number was "+guess+" and it only took me " +count+" guesses ");
                 break;
             }
         }
