@@ -8,7 +8,7 @@ Lab#: Lab6C
 */
 
 using System;
-using System.Reflection.Metadata.Ecma335;
+
 
 class Lab6C
 {
